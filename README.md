@@ -12,6 +12,21 @@
 
 ---
 
+### 🚀 FEATURED_PROJECT: Itamio
+**Status:** In Active Development 🛠️
+> Architecting a production-grade platform with a focus on data integrity and system speed.
+
+| Layer | Stack | Engineering Purpose |
+| :--- | :--- | :--- |
+| **Framework** | Next.js 14 | App Router & Server Components for zero-bundle logic. |
+| **Language** | TypeScript | Full-stack type-safety and network-boundary reliability. |
+| **Database** | PostgreSQL | Relational integrity with JSONB support. |
+| **Styling** | Tailwind CSS | Utility-first, responsive design architecture. |
+| **ORM/API** | Supabase | Real-time DB sync and PostgREST integration. |
+| **Validation** | Zod | Strict runtime schema enforcement (Parse, don't validate). |
+
+---
+
 ### 🖥️ KERNEL_MODULES (TECH_STACK)
 ```javascript
 const nSleer = {
